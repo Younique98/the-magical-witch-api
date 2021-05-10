@@ -5,6 +5,18 @@
         "name": "Erica",
         "email": "erica@dot.com",
         "sign": "libra"
+      },
+      {
+        "id": 2,
+        "name": "Erica",
+        "email": "erica2@dot.com",
+        "sign": "libra"
+      },
+      {
+        "id": 3,
+        "name": "Erica",
+        "email": "erica3@dot.com",
+        "sign": "libra"
       }
     ],
     "horoscopes": [
